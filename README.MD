@@ -47,7 +47,7 @@
 - Clone the github repository, and simply install the dependencies.
 
 ```bash
-  $ git clone https://github.com/TrishCX/AnimeCrix
+ $ git clone https://github.com/TrishCX/AnimeCrix
  cd AnimeCrix
  npm install # using yarn? --> yarn run dev
 ```
@@ -89,10 +89,6 @@ _Try the project on replit._
     style="width: 140px;"
      />
   </a>
-
-<link rel="stylesheet" href="https://badge.coolcodersj.repl.co/style.css">
-<a class="badge" href="https://replit.com/@mynoislitaf/Anime-Gen#index.js" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" />Try it on replit</a>
-
+  
 <h1>License</h1>
  MIT
