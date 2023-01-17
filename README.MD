@@ -1,4 +1,4 @@
-<h1 align="center">Anime-Gen</h1>
+<h1 align="center">Anime-Crix</h1>
 <p align="center">Flexible & Restful anime api fetching information from <a href="https://myanimelist.net/">MyAnimeList.</a></p>
 <p align="center">
     <img
