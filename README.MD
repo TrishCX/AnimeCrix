@@ -58,11 +58,12 @@
 ╰─ﬀ $ npm run dev # using yarn? --> yarn run dev
 ```
 
-  Server
-  
-  | Port  | Number                | Default |
-| ------ | ------------------- | ----------- |
-| client | <code>Client</code> | 9000 |
+Server
+
+| Port   | Number              | Default |
+| ------ | ------------------- | ------- |
+| client | <code>Client</code> | 9000    |
+
 </p>
 
 - The initial port is 9000, the development server will be up on now: [http://localhost:9000](http://localhost:9000/v1/)
@@ -71,24 +72,27 @@
 
 _Host the project on heroku._
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riimuru/gogoanime/tree/main)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TrishCX/AnimeCrix/tree/main)
 
 ### Render
 
 _Host the project on render._
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/riimuru/gogoanime-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TrishCX/AnimeCrix)
 
 ### Replit
 
 _Try the project on replit._
 
-  <a href="https://replit.com/@mynoislitaf/Anime-Gen#index.js" target="_blank">
+  <a href="https://replit.com/@mynoislitaf/Anime-Gen" target="_blank">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"
     style="width: 140px;"
      />
   </a>
 
+<link rel="stylesheet" href="https://badge.coolcodersj.repl.co/style.css">
+<a class="badge" href="https://replit.com/@mynoislitaf/Anime-Gen#index.js" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" />Try it on replit</a>
 
 <h1>License</h1>
  MIT
