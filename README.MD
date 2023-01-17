@@ -199,7 +199,7 @@ console.log(response);
 // }
 ```
 
-<h2>Complete Information</h2>
+<h2>Complete Information -:</h2>
 
 ```ts
 const baseName = "Death Note";
