@@ -1,4 +1,4 @@
-<h1 align="center">AnimeCrix</h1>
+<h1 align="center">Anime-Gen</h1>
 <p align="center">Flexible & Restful anime api fetching information from <a href="https://myanimelist.net/">MyAnimeList.</a></p>
 <p align="center">
     <img
@@ -47,7 +47,7 @@
 - Clone the github repository, and simply install the dependencies.
 
 ```bash
- ╰─ﬀ $ git clone https://github.com/TrishCX/AnimeCrix
+  $ git clone https://github.com/TrishCX/AnimeCrix
  cd AnimeCrix
  npm install # using yarn? --> yarn run dev
 ```
@@ -55,14 +55,14 @@
 - Starting up the development server.
 
 ```bash
-╰─ﬀ $ npm run dev # using yarn? --> yarn run dev
+ $ npm run dev # using yarn? --> yarn run dev
 ```
 
 Server
 
-| Port   | Number              | Default |
+| Port   | Number| Default |
 | ------ | ------------------- | ------- |
-| client | <code>Client</code> | 9000    |
+| Number | <code>9000</code> | 9000    |
 
 </p>
 
@@ -88,7 +88,11 @@ _Try the project on replit._
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"
     style="width: 140px;"
      />
-  </a> 
-  
+  </a>
+
+<link rel="stylesheet" href="https://badge.coolcodersj.repl.co/style.css">
+<a class="badge" href="https://replit.com/@mynoislitaf/Anime-Gen#index.js" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" />Try it on replit</a>
+
 <h1>License</h1>
  MIT
