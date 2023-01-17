@@ -88,11 +88,7 @@ _Try the project on replit._
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"
     style="width: 140px;"
      />
-  </a>
-
-<link rel="stylesheet" href="https://badge.coolcodersj.repl.co/style.css">
-<a class="badge" href="https://replit.com/@mynoislitaf/Anime-Gen#index.js" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" />Try it on replit</a>
-
+  </a> 
+  
 <h1>License</h1>
  MIT
